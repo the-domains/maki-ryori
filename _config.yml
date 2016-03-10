@@ -1,0 +1,14 @@
+layout_spectrum: 0.1220812
+typography_spectrum: 0.4424205
+color:
+  saturation: 0.6792115
+  brandStrength: 0.672043
+  lightness: 0.6362007
+  brandColors:
+    - '#160B06'
+    - '#77391E'
+    - '#FCA301'
+    - '#FCE9C7'
+    - '#BD6E5B'
+  rhythmicContrast: 0.6308244
+name: Maki Ryori
